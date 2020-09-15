@@ -1,0 +1,5 @@
+以学号为文件夹，用GIT上传你们的翻译版本到https://github.com/starrywalker-Nine/bigDataSec
+拉取项目文档
+更新项目文档
+上传作业
+写明注释：翻译组成员

@@ -1,0 +1,6 @@
+回忆LINUX教程
+安装虚拟机 VMware(尝试安装Ubuntu 18.04 LTS) 和 Xshell
+FTP协议
+SSH协议
+防火墙
+下周使用FTP协议下载指定文件
